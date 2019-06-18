@@ -1,0 +1,6 @@
+C:\Users\vip\Desktop\My_Programming\!Student_Videosharp\Test\ParserBases\ParserBases\bin\Debug\ParserBases.exe.config
+C:\Users\vip\Desktop\My_Programming\!Student_Videosharp\Test\ParserBases\ParserBases\bin\Debug\ParserBases.exe
+C:\Users\vip\Desktop\My_Programming\!Student_Videosharp\Test\ParserBases\ParserBases\bin\Debug\ParserBases.pdb
+C:\Users\vip\Desktop\My_Programming\!Student_Videosharp\Test\ParserBases\ParserBases\obj\Debug\ParserBases.csprojResolveAssemblyReference.cache
+C:\Users\vip\Desktop\My_Programming\!Student_Videosharp\Test\ParserBases\ParserBases\obj\Debug\ParserBases.exe
+C:\Users\vip\Desktop\My_Programming\!Student_Videosharp\Test\ParserBases\ParserBases\obj\Debug\ParserBases.pdb
