@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{15ED4C1C-5764-4A7B-8694-4EF3B239F2B7}</ProjectGuid>
+    <ProjectGuid>{0312EABA-E49C-4C45-B295-0DF4BF66A23F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ParserBases</RootNamespace>
-    <AssemblyName>ParserBases</AssemblyName>
+    <RootNamespace>parser</RootNamespace>
+    <AssemblyName>parser</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

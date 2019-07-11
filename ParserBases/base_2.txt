@@ -1,0 +1,6 @@
+[Оптовик]
+Connect=Srvr="host371:1741";Ref="432345_base01";
+
+[ООО &quot;Сити&quot;]
+Connect=Srvr="host166";Ref="635445_base23";
+
